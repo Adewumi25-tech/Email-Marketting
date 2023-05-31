@@ -28,14 +28,21 @@ The dataset include informations such as type of busisness, ststus of customer, 
 ## DATA PREPARATION
 The performing the analysis, the dataset was processed to handle missing values, clean outliers,and ensure consistency. Data transformation and DAX function were applied to create relevant features for analysis.
 
+![Email Preparation](https://github.com/Adewumi25-tech/Email-Marketting/assets/72547309/9ab514d2-2c79-46d8-82a5-a9e36834bdd8)
+
 
 ## ANALYSIS
+![Email chart 1](https://github.com/Adewumi25-tech/Email-Marketting/assets/72547309/e68ce786-cf89-4877-821c-8726b53b840d)
 
-## MODELLING
+![Email chart 2](https://github.com/Adewumi25-tech/Email-Marketting/assets/72547309/4b17b6b9-d163-449d-a41b-8e28752f7fe6)
 
+![Email chart 3](https://github.com/Adewumi25-tech/Email-Marketting/assets/72547309/67e3c5ce-5e4c-4442-b0e7-b65ca00ef13e)
+
+![Email chart 4](https://github.com/Adewumi25-tech/Email-Marketting/assets/72547309/5264b012-cd57-4e59-8d62-3d9cf2b9f824)
 
 
 ## DASHBOARD
+![NEWSLETTER DASHBOARD](https://github.com/Adewumi25-tech/Email-Marketting/assets/72547309/6afb21d8-6c1d-40ea-bef9-cf5d63f19109)
 
 
 ### INSIGHTS
