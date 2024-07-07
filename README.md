@@ -1,16 +1,16 @@
-# Email-Marketting
+# Email-Marketing
 Email Newsletter
 
 ## OVERVIEW
 Email marketing can be a highly effective way for businesses to connect with their audience and increase engagement.
-This analysis focus on a target audience that subscribed to email newsletters for the period of 3 years(2017 - 2020).
-The dataset include informations such as type of busisness, ststus of customer, city, postal code, gender, birthdate, marital status, enrolled date, living status.
+This analysis focuses on a target audience that subscribed to email newsletters for the period of 3 years(2017 - 2020).
+The dataset includes information such as type of business, the status of the customer, city, postal code, gender, birth date, marital status, enrolled date, and living status.
 
 ## PROBLEM STATEMENT
 * Users by Status
 * People signed in by Marital status
-* People signed in by city
-* Total customer by time
+* People signed in by the city
+* Total customers by time
 * Trends by year
 * Gender %
 * Inactive users
@@ -26,7 +26,7 @@ The dataset include informations such as type of busisness, ststus of customer, 
 * Filter
 
 ## DATA PREPARATION
-The performing the analysis, the dataset was processed to handle missing values, clean outliers,and ensure consistency. Data transformation and DAX function were applied to create relevant features for analysis.
+While performing the analysis, the dataset was processed to handle missing values, clean outliers, and ensure consistency. Data transformation and DAX function were applied to create relevant features for analysis.
 
 ![Email Preparation](https://github.com/Adewumi25-tech/Email-Marketting/assets/72547309/9ab514d2-2c79-46d8-82a5-a9e36834bdd8)
 
@@ -53,7 +53,7 @@ The performing the analysis, the dataset was processed to handle missing values,
 
 👉 The subscribers increased in the first year 2017 -20018 and active users later reduced in the year 2019 and 2020, which means the newsletter was engaging in the first year only.
 
-👉 From the analysis, the number o subscribers increased from 2:00 pm - 3:00 pm
+👉 From the analysis, the number of subscribers increased from 2:00 pm - 3:00 pm
 
 👉 Almost all the subscribers are individuals and a small percentage of business subscribers.
 
@@ -65,7 +65,7 @@ The contents of the newsletter resonate more with males and married,
 ## RECOMMENDATION
 👉 The newsletter should be reviewed and feedback from the subscribers to know about their preferences, such as the type of content they are interested in, how often they want to receive emails, and what topics they would like to be covered.
 
-👉 Consider how to reach and engage with the audience and also explore ways to increase female subscribers.
+👉 Consider how to reach and engage with the audience and explore ways to increase female subscribers.
 
 👉 Keep an eye on trends and adjust marketing strategy to stay relevant
 
