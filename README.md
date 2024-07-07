@@ -3,8 +3,8 @@ Email Newsletter
 
 ## OVERVIEW
 Email marketing can be a highly effective way for businesses to connect with their audience and increase engagement.
-This analysis focuses on a target audience that subscribed to email newsletters for the period of 3 years(2017 - 2020).
-The dataset includes information such as type of business, the status of the customer, city, postal code, gender, birth date, marital status, enrolled date, and living status.
+This analysis focuses on a target audience that subscribed to email newsletters 3 years(2017 - 2020).
+The dataset includes information such as the type of business, the status of the customer, city, postal code, gender, birth date, marital status, enrolled date, and living status.
 
 ## PROBLEM STATEMENT
 * Users by Status
